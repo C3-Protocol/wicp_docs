@@ -3,6 +3,10 @@
 ## Official website
 https://opdit-ciaaa-aaaah-aa5ra-cai.ic0.app
 
+## Twitter
+
+https://twitter.com/WrappedIcp
+
 ## WICP Github
 https://github.com/C3-Protocol/WICP
 
