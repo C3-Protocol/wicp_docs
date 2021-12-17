@@ -1,7 +1,0 @@
-lalal
-
-```javascript
-export default {
-    
-}
-```
