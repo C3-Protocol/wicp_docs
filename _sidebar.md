@@ -1,7 +1,3 @@
-- Getting started
-
-  - [Quick start](quickstart.md)
-  - [Add to Plug wallet](pages/add_to_wallet.md)
 - Interfaces
 
   - [balance](./pages/interfaces/balance.md)
