@@ -16,4 +16,5 @@
   - [Motoko](./pages/examples/motoko.md)
   - [Javascript](./pages/examples/javascript.md)
   - [Rust](./pages/examples/rust.md)
+  - [Test2](./pages/examples/rust.md)
 
