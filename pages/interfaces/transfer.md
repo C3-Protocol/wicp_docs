@@ -1,16 +1,16 @@
-transfer
+## transfer
 
 ```
 transfer: (TransferRequest) -> (EXTTransferResponse);
 ```
 
-cmd
+### cmd
 
 ```
 dfx --identity <identity> canister --network ic call <canister id> transfer '(record {amount = <amount>:nat;from = variant {"principal"=principal "<from principal>"};memo=<memo>"\n":blob;notify=false;subaccount=opt vec{};to= variant {"principal"=principal "<to principal>"};token="";})'
 ```
 
-motoko
+### motoko
 
 ```
 let from_principal_text : Text = "wo4ia-cbvf6-2mz2p-q3d5p-y46vw-hsidv-gpjey-r3zp5-w4q4z-3pgk5-lae";

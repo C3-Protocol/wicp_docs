@@ -10,7 +10,7 @@ balance: (BalanceRequest) -> (BalanceResponse) query;
 dfx --identity <identity> canister --network ic call <canister id> balance '(record {user = variant {"principal"=principal "<user pricipal>"}; token="";})'
 ```
 
-#### motoko
+### motoko
 
 ```
 let user_principal_text : Text = "wo4ia-cbvf6-2mz2p-q3d5p-y46vw-hsidv-gpjey-r3zp5-w4q4z-3pgk5-lae";

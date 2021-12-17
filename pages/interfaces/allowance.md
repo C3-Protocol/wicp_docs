@@ -1,16 +1,16 @@
-allowance
+## allowance
 
 ```
 oldAllowance: (principal, principal) -> (nat) query;
 ```
 
-cmd
+### cmd
 
 ```
 dfx --identity <identity> canister --network dev call WICP_motoko allowance '(record {token=""; owner = variant {"principal" = principal "wo4ia-cbvf6-2mz2p-q3d5p-y46vw-hsidv-gpjey-r3zp5-w4q4z-3pgk5-lae"}; spender = principal "ljpnx-urbj3-7r4xj-wczwq-jkywa-kavjg-7etiu-h6jga-fajx3-dpqp5-gae"})'
 ```
 
-Motoko
+### Motoko
 
 ```
 let owner_principal_text : Text = "jnrdx-fw4lt-hgeaj-shxci-azalp-5zcy2-uwrji-eskcf-52t7i-2a3bj-fqe";

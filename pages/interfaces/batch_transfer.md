@@ -10,7 +10,7 @@ batchTransfer: (vec principal, vec nat) -> (TransferResponse);
 dfx --identity <identity> canister --network ic call <canister_id> batchTransfer '(vec{principal "<to_principal_1>";principal "<to_principal_2>";}, vec{<amount_1>:nat; <amount_2>:nat})'
 ```
 
-Motoko
+### Motoko
 
 ```
 let to_principal_text_1 : Text = "pzkqc-kav3g-iojph-vlerb-2ozvj-lnt3s-cpd5v-3f5mi-p6xje-hy66x-uqe";

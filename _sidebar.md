@@ -7,6 +7,8 @@
   - [batch transfer](./pages/interfaces/batch_transfer.md)
   - [batch transfer from](./pages/interfaces/batch_transfer_from.md)
   - [get history by account](./pages/interfaces/get_history_by_account.md)
+  - [mint](./pages/interfaces/mint.md)
+  - [burn](./pages/interfaces/burn.md)
 - Examples
 
   - [Motoko](./pages/examples/motoko.md)
