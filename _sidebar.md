@@ -1,4 +1,6 @@
 - [Home](./README.md)
+- How to use WICP
+  - [CCC](./pages/interfaces/balanceOf.md)
 - Interfaces
   - [balanceOf](./pages/interfaces/balanceOf.md)
   - [approve](./pages/interfaces/approve.md)
@@ -8,9 +10,9 @@
   - [batch transfer](./pages/interfaces/batch_transfer.md)
   - [batch transfer from](./pages/interfaces/batch_transfer_from.md)
   - [get history by account](./pages/interfaces/get_history_by_account.md)
-  - [swap(mint)](./pages/interfaces/mint.md)
+  - [swap(mint)](./pages/interfaces/swap.md)
   - [burn](./pages/interfaces/burn.md)
 - Examples
   - [Motoko](./pages/examples/motoko.md)
   - [Javascript(Coming soon)](./pages/examples/javascript.md)
-  - [Javascript(Coming soon)](./pages/examples/rust.md)
+  - [Rustt(Coming soon)](./pages/examples/rust.md)
