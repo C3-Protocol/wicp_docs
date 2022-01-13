@@ -1,6 +1,4 @@
 - [Home](./README.md)
-- How to use WICP
-  - [CCC](./pages/interfaces/balanceOf.md)
 - Interfaces
   - [balanceOf](./pages/interfaces/balanceOf.md)
   - [approve](./pages/interfaces/approve.md)
