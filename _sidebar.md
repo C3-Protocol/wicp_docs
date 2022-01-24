@@ -13,4 +13,4 @@
 - Examples
   - [Motoko](./pages/examples/motoko.md)
   - [Javascript(Coming soon)](./pages/examples/javascript.md)
-  - [Rustt(Coming soon)](./pages/examples/rust.md)
+  - [Rust(Coming soon)](./pages/examples/rust.md)
