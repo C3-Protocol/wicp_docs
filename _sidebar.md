@@ -1,4 +1,8 @@
 - [Home](./README.md)
+- [Introduction](./pages/user_guide/introduction.md)
+- [ICP to WICP](./pages/user_guide/icp_to_wicp.md)
+- [WICP to ICP](./pages/user_guide/wicp_to_icp.md)
+- [Transfer WICP](./pages/user_guide/transfer.md)
 - Interfaces
   - [balanceOf](./pages/interfaces/balanceOf.md)
   - [approve](./pages/interfaces/approve.md)

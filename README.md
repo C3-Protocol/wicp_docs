@@ -1,4 +1,6 @@
-# Welcome to WICP
+![image-20220224104302366](./README.assets/image-20220224104302366.png)
+
+# Welcome to WICP Tool
 
 ## Official website
 https://opdit-ciaaa-aaaah-aa5ra-cai.ic0.app
@@ -23,6 +25,18 @@ https://github.com/C3-Protocol/wicp_docs
 ## Candid
 
 https://ic.rocks/principal/o5d6i-5aaaa-aaaah-qbz2q-cai (Scroll to the bottom)
+
+## User guide
+
+- [Introduction](./pages/user_guide/introduction.md)
+
+- [ICP to WICP](./pages/user_guide/icp_to_wicp.md)
+
+- [WICP to ICP](./pages/user_guide/wicp_to_icp.md)
+
+- [Transfer WICP](./pages/user_guide/transfer.md)
+
+  
 
 ## Interfaces
 
