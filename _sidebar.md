@@ -16,5 +16,3 @@
   - [burn](./pages/interfaces/burn.md)
 - Examples
   - [Motoko](./pages/examples/motoko.md)
-  - [Javascript(Coming soon)](./pages/examples/javascript.md)
-  - [Rust(Coming soon)](./pages/examples/rust.md)

@@ -19,7 +19,7 @@ Its primary goal is to allow the transit of various encrypted assets while also 
 
 
 
-## How does WICP tool Works?
+## How does WICP tool Work ?
 
 - A canister locks the ICP, and the corresponding WICP will flow out.
 
@@ -32,7 +32,7 @@ Its primary goal is to allow the transit of various encrypted assets while also 
 
 
 
-## How to use WICP tool?
+## How to use WICP tool ?
 
 - [ICP to WICP](./pages/user_guide/icp_to_wicp.md)
 - [WICP to ICP](./pages/user_guide/wicp_to_icp.md)

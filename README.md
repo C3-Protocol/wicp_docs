@@ -54,5 +54,3 @@ https://ic.rocks/principal/o5d6i-5aaaa-aaaah-qbz2q-cai (Scroll to the bottom)
 ## Examples
 
 - [Motoko](./pages/examples/motoko.md)
-- [Javascript(Coming soon)](./pages/examples/javascript.md)
-- [Rust(Coming soon)](./pages/examples/rust.md)
